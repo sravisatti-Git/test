@@ -1,0 +1,10 @@
+D:\CShrap\DeviceExample\Device\bin\Debug\Device.exe.config
+D:\CShrap\DeviceExample\Device\bin\Debug\Device.exe
+D:\CShrap\DeviceExample\Device\bin\Debug\Device.pdb
+D:\CShrap\DeviceExample\Device\bin\Debug\ClassLibrary1.dll
+D:\CShrap\DeviceExample\Device\bin\Debug\ClassLibrary1.pdb
+D:\CShrap\DeviceExample\Device\obj\Debug\Device.csproj.AssemblyReference.cache
+D:\CShrap\DeviceExample\Device\obj\Debug\Device.csproj.CoreCompileInputs.cache
+D:\CShrap\DeviceExample\Device\obj\Debug\Device.csproj.CopyComplete
+D:\CShrap\DeviceExample\Device\obj\Debug\Device.exe
+D:\CShrap\DeviceExample\Device\obj\Debug\Device.pdb
